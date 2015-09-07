@@ -1,37 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
+  <title><![CDATA[Something & anything]]></title>
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://hy9be.github.io/"/>
-  <updated>2015-09-07T21:12:26.000Z</updated>
+  <updated>2015-09-07T22:49:38.000Z</updated>
   <id>http://hy9be.github.io/</id>
   
   <author>
-    <name><![CDATA[Haowen You]]></name>
+    <name><![CDATA[hy9be]]></name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://hy9be.github.io/2015/09/07/hello-world/"/>
-    <id>http://hy9be.github.io/2015/09/07/hello-world/</id>
-    <published>2015-09-07T21:12:26.000Z</published>
-    <updated>2015-09-07T21:12:26.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <title><![CDATA[Hello world]]></title>
+    <link href="http://hy9be.github.io/2015/09/07/Hello-world/"/>
+    <id>http://hy9be.github.io/2015/09/07/Hello-world/</id>
+    <published>2015-09-07T22:02:32.000Z</published>
+    <updated>2015-09-07T22:49:38.000Z</updated>
+    <content type="html"><![CDATA[<p>I joined a group on <a href="http://www.coach.me" target="_blank" rel="external">http://www.coach.me</a>  named “#500WD” today, and will start to write something periodically (I do not want to set a hard goal of 7 days a week and 500 words each time, but I will try to write as much as possible).</p>
+<p>I will write mainly in English. I am very lucky as a foreigner staying at the United States: I have a large group of Chinese friends; my manager and most of my colleagues speaks Chinese; I have easy access to all kinds of Chinese supermarket and restaurants; … As a result, I do not really feel the lonely of staying abroad alone. But I feel I took too much advantages on these lucky things and is implicitly taking very high risk of losing them. I must be prepared in case these are all taken away from me some day. To write a blog in English is a start point.</p>
+<p>The content will be various. I am a geek, a top Chinese singer, a readingholic, a 15 year fan of basketball, and many more…I will write anything I like, hate or feel indifferent.</p>
+<p>I do not plan to buy a domain name for this blog, though blogs on *.github.io domain names usually are focusing on programming.</p>
+<p>Okay, I guess this is already pretty long for a post named “Hello, word”.</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>I joined a group on <a href="http://www.coach.me" target="_blank" rel="external">http://www.coach.me</a>  named “#500WD” today, and will ]]>
     </summary>
     
   </entry>
