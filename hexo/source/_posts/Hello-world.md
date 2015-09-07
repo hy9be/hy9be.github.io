@@ -1,5 +1,5 @@
 title: Hello world
-date: 2015-09-07 18:02:32
+date: 2015-09-07 19:22:46
 tags: miscellaneous
 ---
 I joined a group on <http://www.coach.me>  named "#500WD" today, and will start to write something periodically (I do not want to set a hard goal of 7 days a week and 500 words each time, but I will try to write as much as possible).
@@ -10,4 +10,4 @@ The content will be various. I am a geek, a top Chinese singer, a readingholic, 
 
 I do not plan to buy a domain name for this blog, though blogs on *.github.io domain names usually are focusing on programming.
 
-Okay, I guess this is already pretty long for a post named "Hello, word".
+Okay, I guess this is already pretty long for a post named "Hello word".
