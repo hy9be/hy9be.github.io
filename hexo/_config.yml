@@ -68,6 +68,17 @@ theme: next
 # Avatar
 avatar: https://pbs.twimg.com/profile_images/587327995297280001/Qih3UZ8u.jpg
 
+# Menu
+menu:
+  home: /
+  archives: /archives
+  #about: /about
+  #categories: /categories
+  tags: /tags
+  github: https://github.com/hy9be
+  ZoomSocial: http://zoomsocial.com/
+  #commonweal: /404.html
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
