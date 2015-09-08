@@ -1,5 +1,7 @@
 .DS_Store
-
+Thumbs.db
+.deploy*/%
+*.log
 **/node_modules/
-hexo/npm-debug.log
+hexo/db.json
 hexo/public/
